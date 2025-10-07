@@ -1,6 +1,5 @@
 # git-prac
 assignment 1
-# Project Name
 
 ## Description
 This repository contains files for practicing Git operations including branching, merging, rebasing, stashing, and conflict resolution.
